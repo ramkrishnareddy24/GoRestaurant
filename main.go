@@ -1,9 +1,11 @@
 package main
 
 import (
-	"GoRestaurant/middleware"
-	"GoRestaurant/routes"
-	"GoRestaurant/database"
+	"github.com/ramkrishnareddy24/GoRestaurant/controllers"
+	"github.com/ramkrishnareddy24/GoRestaurant/database"
+	"github.com/ramkrishnareddy24/GoRestaurant/middleware"
+	"github.com/ramkrishnareddy24/GoRestaurant/routes"
+
 	"go.mongodb.org/mongo-driver/mongo"
 	"os"
 
