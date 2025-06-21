@@ -1,7 +1,6 @@
 package main
 
 import (
-	"github.com/ramkrishnareddy24/GoRestaurant/controllers"
 	"github.com/ramkrishnareddy24/GoRestaurant/database"
 	"github.com/ramkrishnareddy24/GoRestaurant/middleware"
 	"github.com/ramkrishnareddy24/GoRestaurant/routes"
